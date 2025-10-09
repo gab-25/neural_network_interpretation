@@ -1,0 +1,8 @@
+torch==2.8.0
+torchvision==0.23.0
+numpy==2.3.3
+pillow==11.3.0
+matplotlib==3.10.7
+lime==0.2.0.1
+scikit-image==0.25.2
+captum==0.7.0
